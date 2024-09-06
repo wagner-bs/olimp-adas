@@ -1,4 +1,4 @@
-Aplicativo "Atletas do Brasil"
+Aplicativo "Atletas do Brasil" (Imersão Dev com Google Gemini!)
 
 Este aplicativo web permite que você pesquise por atletas brasileiros de forma rápida e fácil. Basta digitar o nome de um atleta, esporte ou palavra-chave relacionada e a aplicação exibirá uma lista com os resultados correspondentes.
 
